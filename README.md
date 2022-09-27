@@ -4,5 +4,12 @@
 - 👯 当前正寻求web前端开发相关工作
 - 💬 1093683149@qq.com
 
-[![panle666's github stats](https://github-readme-stats.vercel.app/api?username=panle666&layout=compact&theme=dracula&card_width=360 "![panle666's github stats")](https://github.com/panle666/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panle666&theme=dracula&layout=compact)](https://github.com/panle666/github-readme-stats)
-
+<br />
+<div>
+  <a href="https://github.com/panle666/panle666"> 
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=panle666&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/panle666/panle666"> 
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panle666&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
+</div>
