@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 就职于广东康爱多数字健康科技有限公司
-- 👯 当前正寻求web前端开发相关工作
-- 💬 1093683149@qq.com
-
 <br />
 <div>
   <a href="https://github.com/panle666/panle666"> 
